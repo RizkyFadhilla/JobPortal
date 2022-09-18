@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "pg": "^8.8.0",
+    "sequelize": "^6.22.1"
+  },
+  "name": "jobportal",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RizkyFadhilla/JobPortal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RizkyFadhilla/JobPortal/issues"
+  },
+  "homepage": "https://github.com/RizkyFadhilla/JobPortal#readme"
+}
